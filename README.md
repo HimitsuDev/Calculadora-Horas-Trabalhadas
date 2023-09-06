@@ -1,2 +1,2 @@
 # GitHub
- Projeto enviado para GitHub
+Projeto android, ajuda preencher as horas trabalhadas, feito para android.
