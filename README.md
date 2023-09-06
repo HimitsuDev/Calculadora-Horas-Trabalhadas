@@ -1,2 +1,2 @@
 # GitHub
- Porjetos enviados para GitHub
+ Projeto enviado para GitHub
